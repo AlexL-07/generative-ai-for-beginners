@@ -89,7 +89,7 @@ The input of a large language model is known as prompt, while the output is know
 
 * An **instruction** specifying the type of output we expect from the model. This instruction sometimes might embed some examples or some additional data.
 
-    1. Summarization of an article, book, product reviews and more, along with extraction of insights from unstructured data.
+    1. Summarization of an article, book, product reviews and more, along with extraction of insights from unstructured data. 555
     
     ![Example of summarization](./images/summarization-example.png?WT.mc_id=academic-105485-koreyst)
 
